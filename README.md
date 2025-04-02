@@ -17,6 +17,10 @@ Hi, I'm Ananya Gupta, a Computer Science student passionate about building effic
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnanyaGupta18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ananya_184?theme=dark&font=Karma&ext=activity)
+
+
 ### ✍️ Quote Of The Day..
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
